@@ -15,3 +15,20 @@ Description: show score in demo play mode(For 4.1.0 JP)
 Name: GBPDemoScore
 Author: arikasu
 
+Package: com.arikasu.genkyoku
+Architecture: iphoneos-arm
+Version: 4.4.0
+Section: Tweaks
+Maintainer: Arikasu
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.arikasu.genkyoku_4.4.0_iphoneos-arm.deb
+Size: 2942
+MD5sum: d0aa59e961c2aae85866785b3839ff83
+SHA1: b75c916854284e148d7e99af07c1a8e32a452657
+SHA256: ccf0fe10a54e6c1fe05a92b325491b8cc5ae000a84d425dc3c23dde4d9a057ec
+SHA512: 8da6036ccc405cd197b2d61b09ba7a9e05177701d756df558459d7116f67b19f95fdc6d43421bfbd0058917ab25cf195d8f428fd8fafd75f108e87df16000916
+Description: 名前の1文字目を原曲にします
+Name: GBPGenkyoku
+Author: Arikasu
+
